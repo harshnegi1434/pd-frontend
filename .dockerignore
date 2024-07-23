@@ -1,0 +1,14 @@
+# Docker
+Dockerfile
+.dockerignore
+
+# Distribution
+node_modules
+.next
+
+# Git
+.git
+.gitignore
+
+# Others
+README.md
